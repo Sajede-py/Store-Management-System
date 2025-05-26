@@ -17,3 +17,9 @@ This project is a simple Store Management System implemented in C++ with a conso
 - Interface: Console-based
 - OOP Principles: Inheritance, Encapsulation
 - Memory: Dynamic arrays (no STL, no static variables)
+## Installation
+
+1. Clone this repository:
+   `bash
+   git clone https://github.com/your-username/store-management-cpp.git
+   cd store-management-cpp
