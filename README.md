@@ -21,5 +21,5 @@ This project is a simple Store Management System implemented in C++ with a conso
 
 1. Clone this repository:
    `bash
-   git clone https://github.com/Sajede-py/projectsp-cpp.git
+   git clone https://github.com/Sajede-py/Store-Management-System-cpp.git
    cd store-management-cpp
